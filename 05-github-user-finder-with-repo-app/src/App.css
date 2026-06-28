@@ -1,0 +1,4 @@
+.main-input::placeholder{
+    color: rgb(188, 183, 183) !important;
+    opacity: 1;
+}
